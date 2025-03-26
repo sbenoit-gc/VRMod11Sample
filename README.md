@@ -9,8 +9,8 @@ A continuation of the in class demonstration code based on UE default Virtual Re
 Clone, or download the zip, to a local directory. Open in Unreal Engine 5.4 or newer
 
 ## Attributions
-
-
+1) Arrow (red), Platformer Sprites by yd on OpenGameArt.org, < https://opengameart.org/content/platformer-sprites >
+2) UI Pack (RPG Expansion) onkenney.nl, < https://kenney.nl/assets/ui-pack-rpg-expansion >
 
 
 
